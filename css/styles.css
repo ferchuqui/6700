@@ -1,0 +1,23 @@
+ul li{
+    
+    color: blue;
+    float: left;
+    font-family: fantasy;
+    list-style: none;
+    padding: 15px;
+    
+}
+nav{
+    float: right;
+    margin-right: 130px;
+    margin-top: 20px;
+
+}
+
+img{
+    margin-top: 20px;
+}
+ul li :hover{
+    color:black;
+}
+
